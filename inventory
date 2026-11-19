@@ -1,3 +1,2 @@
-[default]
-192.168.100.20
-192.168.100.24
+192.168.100.20 apache_package=apache2 php_package=libapache2-mod-php
+192.168.100.24 apache_package=httpd php_package=php
